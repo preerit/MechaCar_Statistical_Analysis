@@ -10,4 +10,6 @@ According to the summary output, the multiple r-squared value is 0.71 and p valu
 
 ----
 
-## Deliverable 2
+## Deliverable 2 - Summary Statistics on Suspension Coils
+Write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
