@@ -14,4 +14,11 @@ According to the summary output, the multiple r-squared value is 0.71 and p valu
 Write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 ![Suspension_coil_summary](https://github.com/preerit/MechaCar_Statistical_Analysis/blob/main/Suspension_coil_summary.png)
+Based on the overall summary, the variance does not seem to exceed the prescribed specification. 
 ![Suspension_coil_summary_lot](https://github.com/preerit/MechaCar_Statistical_Analysis/blob/main/Suspension_coil_summary_lot.png)
+Based on the lot wise summary, lot 1 and lot 2 have variances less than the specification while lot 3 has a much highe variance (of 170) which is greater than the prescribed design specification of 100 pounds per square inch.
+
+----
+
+## Deliverable 3 - T-Tests on Suspension Coils
+
