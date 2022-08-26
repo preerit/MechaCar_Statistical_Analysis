@@ -20,5 +20,6 @@ Based on the lot wise summary, lot 1 and lot 2 have variances less than the spec
 
 ----
 
-## Deliverable 3 - T-Tests on Suspension Coils
+## Deliverable 3 - T-Tests on Suspension Coils - Summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary
+
 
