@@ -30,3 +30,15 @@ p value for t-test for lot 2 indicate that there is not sufficient evidence to r
 p value for t-test for lot 3 is less than significance factor. We can reject the null hypothesis. Hence the PSI for lot 3 is statistically different from the population mean of 1,500 pounds per square inch.
 ![lot3_t-test](https://github.com/preerit/MechaCar_Statistical_Analysis/blob/main/lot3_t-test.png)
 
+----
+
+## Deliverable 4 - Study Design: MechaCar vs Competition
+### What metric or metrics are you going to test?
+cost, city or highway fuel efficiency, horse power, maintenance cost, safety rating, vehicle part inventories, acceleration / hard braking, drafting, vehicle weight, mileage per gallon
+### What is the null hypothesis or alternative hypothesis?
+Null hypothesis - MechaCar performance is same as competition's performance
+Alternative hypothesis - MechaCar performance is not same as competition's performance
+### What statistical test would you use to test the hypothesis? And why?
+ANOVA is used because we are comparing 2 different population sets and the dependent metric can be affected by more than 1 independent variable
+### What data is needed to run the statistical test?
+MechaCar's performance data with different metrics and competetion's data with different metrics
