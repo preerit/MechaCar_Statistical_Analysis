@@ -21,8 +21,12 @@ Based on the lot wise summary, lot 1 and lot 2 have variances less than the spec
 ----
 
 ## Deliverable 3 - T-Tests on Suspension Coils - Summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary
+p value for t-test across all lots indicate that there is not sufficient evidence to reject null hypothesis. Hence the PSI across all manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch.
 ![t-test](https://github.com/preerit/MechaCar_Statistical_Analysis/blob/main/t-test.png)
-https://github.com/preerit/MechaCar_Statistical_Analysis/blob/main/lot1_t-test.png
-https://github.com/preerit/MechaCar_Statistical_Analysis/blob/main/lot2_t-test.png
-https://github.com/preerit/MechaCar_Statistical_Analysis/blob/main/lot3_t-test.png
+p value for t-test for lot 1 indicate that there is not sufficient evidence to reject null hypothesis. Hence the PSI for lot 1 is not statistically different from the population mean of 1,500 pounds per square inch.
+![lot1_t-test](https://github.com/preerit/MechaCar_Statistical_Analysis/blob/main/lot1_t-test.png)
+p value for t-test for lot 2 indicate that there is not sufficient evidence to reject null hypothesis. Hence the PSI for lot 2 is not statistically different from the population mean of 1,500 pounds per square inch.
+![lot2_t-test](https://github.com/preerit/MechaCar_Statistical_Analysis/blob/main/lot2_t-test.png)
+p value for t-test for lot 3 is less than significance factor. We can reject the null hypothesis. Hence the PSI for lot 3 is statistically different from the population mean of 1,500 pounds per square inch.
+![lot3_t-test](https://github.com/preerit/MechaCar_Statistical_Analysis/blob/main/lot3_t-test.png)
 
